@@ -21,7 +21,7 @@
 * Experience with both platforms (Android, iOS)
 
 ### Disadvantage
-# Three separate code bases
-# Longer development time
-# Yet another companion app 
-# Learning curve for iOS development
+* Three separate code bases
+* Longer development time
+* Yet another companion app 
+* Learning curve for iOS development
